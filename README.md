@@ -41,5 +41,5 @@ Generates realistic OHLCV data using:
 
 ## Notebook
 
-Main notebook file in this repository:
+Main notebook file in the repository
 
